@@ -21,3 +21,4 @@ class Module{
 //accessing class function
   obj.viewModuleDetail();
   }
+  
