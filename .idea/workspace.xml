@@ -36,7 +36,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Dart Command Line App.day35.dart">
+  <component name="RunManager" selected="Dart Command Line App.day36.dart">
     <configuration name="day17.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/day17.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -62,11 +62,6 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="day31.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/day31.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="day32.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/day32.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$" />
@@ -87,13 +82,18 @@
       <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="day36.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/day36.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.day36.dart" />
         <item itemvalue="Dart Command Line App.day35.dart" />
         <item itemvalue="Dart Command Line App.day34.dart" />
         <item itemvalue="Dart Command Line App.day33.dart" />
         <item itemvalue="Dart Command Line App.day32.dart" />
-        <item itemvalue="Dart Command Line App.day31.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -115,22 +115,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1632711109984" />
-    <state width="472" height="734" key="GridCell.Tab.0.bottom" timestamp="1633861414186">
+    <state width="467" height="728" key="GridCell.Tab.0.bottom" timestamp="1633969595670">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="472" height="734" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1633861414186" />
-    <state width="472" height="734" key="GridCell.Tab.0.center" timestamp="1633861414186">
+    <state width="467" height="728" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1633969595670" />
+    <state width="467" height="728" key="GridCell.Tab.0.center" timestamp="1633969595670">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="472" height="734" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1633861414186" />
-    <state width="472" height="734" key="GridCell.Tab.0.left" timestamp="1633861414186">
+    <state width="467" height="728" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1633969595670" />
+    <state width="467" height="728" key="GridCell.Tab.0.left" timestamp="1633969595670">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="472" height="734" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1633861414186" />
-    <state width="472" height="734" key="GridCell.Tab.0.right" timestamp="1633861414186">
+    <state width="467" height="728" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1633969595670" />
+    <state width="467" height="728" key="GridCell.Tab.0.right" timestamp="1633969595670">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="472" height="734" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1633861414186" />
+    <state width="467" height="728" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1633969595670" />
     <state x="337" y="161" width="861" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1631363402010">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
